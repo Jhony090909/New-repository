@@ -3,4 +3,4 @@ print("Love")
 
 Alone = "Yo"
 
-print("Alone")
+print(Alone)
